@@ -368,5 +368,5 @@ setInterval(function(){ tickOut () }, 7500);
 
 
 
-;$('.standings .data-table1 tbody td:nth-child(5n)').remove();
+;$('.standings .data-table1 tbody td:nth-child(5n)');
 $( ".tabs" ).tabs();});
